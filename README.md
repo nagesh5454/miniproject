@@ -1,2 +1,2 @@
 # miniproject
-Author -Nagesh Mane
+Author -Nagesh (Apna College)
